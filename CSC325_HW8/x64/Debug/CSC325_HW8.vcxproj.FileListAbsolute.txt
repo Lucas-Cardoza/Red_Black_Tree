@@ -1,0 +1,2 @@
+C:\Users\whook\Google Drive\School Stuff\Fall Semester 2020\CSC 325\HW\HW8\CSC325_HW8\x64\Debug\CSC325_HW8.exe
+C:\Users\whook\Google Drive\School Stuff\Fall Semester 2020\CSC 325\HW\HW8\CSC325_HW8\x64\Debug\CSC325_HW8.pdb
